@@ -13,19 +13,7 @@ public class PublicTransport {
     int totalFee;
     String state;
 
-    public void Service(){
-
-    }
-
-    public void speedChange(){
-
-    }
-
-    public void state(){
-
-    }
-
-
+ 
 
 
 
